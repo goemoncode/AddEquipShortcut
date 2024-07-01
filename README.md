@@ -1,6 +1,6 @@
 # AddEquipShortcut
 
-A mod for 7 Days to Die A21.
+A mod for 7 Days to Die V1.0.
 
 This mod adds "Equip" shortcut to bicycles, drones, food and medical supplies.
 
