@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-	<Name value="AddEquipShortcut"/>
-	<DisplayName value="AddEquipShortcut"/>
-	<Version value="1.0.0"/>
-	<Description value=""/>
-	<Author value="goemoncode"/>
-	<Website value=""/>
+	<Name value="AddEquipShortcut" />
+	<DisplayName value="Add Equip Shortcut" />
+	<Description value="Adds an &quot;Equip&quot; shortcut to all vehicles, drones, food, medical supplies, empty water jars, and buckets." />
+	<Version value="3.0.0" />
+	<Author value="goemoncode" />
+	<Website value="" />
 </xml>
